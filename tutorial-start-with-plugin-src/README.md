@@ -1,6 +1,6 @@
 # Building a Custom D3 Plugin
 
-In this tutorial, we’ll walk through how to create your own modules (packages), and build them into custom 'plugins' for D3. We'll be using rollup and other tools that come with node.js and npm. 
+In this tutorial, we’ll cover how to create your own modules (packages), and build them into custom 'plugins' for D3. We'll be using rollup and other tools that come with node.js and npm. 
 
 We'll start with a walk through of a super-simple example. Then we'll create our own simple example. Finally, we'll finish with an example that demonstrates how to combine multiple source files into one plugin.
 
