@@ -20,7 +20,7 @@ Note: This tutorial assumes that you are familiar with using the *command line*,
 
 # Starting with a super-simple example:
 
-We're going to start with a simple [example](https://github.com/KristinHenry/learning-d3-plugins/blob/master/d3-plugin-src.zip) (modified from an example by [Mike Bostock](https://bl.ocks.org/mbostock)), and make sure we can get each step working before writing any code of our own.
+We're going to start with a simple [example](https://github.com/KristinHenry/learning-d3.v4/blob/master/tutorial-start-with-plugin-src/d3-plugin-src.zip) (modified from an example by [Mike Bostock](https://bl.ocks.org/mbostock)), and make sure we can get each step working before writing any code of our own.
 
 
 ## 1. Get ready:
@@ -29,7 +29,7 @@ We're going to start with a simple [example](https://github.com/KristinHenry/lea
 
 If not already installed. *We're not building a node app, but we are going to use the package management tools that come with node (npm)*
 
-**b. Download the [example plugin](https://github.com/KristinHenry/learning-d3-plugins/blob/master/d3-plugin-src.zip)** 
+**b. Download the [example plugin](https://github.com/KristinHenry/learning-d3.v4/blob/master/tutorial-start-with-plugin-src/d3-plugin-src.zip)** 
 
 It contains a lot of boiler-plate. We can ignore most of it, for now, and just focus on the files we’ll be working with.
 
@@ -136,7 +136,7 @@ Now, let’s make our own plugin.
 
 
 ## 1. Get Ready
-Download (or copy your first download) [example plugin](https://github.com/KristinHenry/learning-d3-plugins/blob/master/d3-plugin-src.zip). We need a fresh, untouched, copy. 
+Download (or copy your first download) [example plugin](https://github.com/KristinHenry/learning-d3.v4/blob/master/tutorial-start-with-plugin-src/d3-plugin-src.zip). We need a fresh, untouched, copy. 
 
  → We’ll edit existing files and customize them.
 
@@ -236,7 +236,7 @@ What if we want to combine *foo()* and *fib()* in one bundle?
 
 ## 1. Get Ready
 
-Download (or copy your first download) [example plugin](https://github.com/KristinHenry/learning-d3-plugins/blob/master/d3-plugin-src.zip). We need a fresh, untouched, copy. 
+Download (or copy your first download) [example plugin](https://github.com/KristinHenry/learning-d3.v4/blob/master/tutorial-start-with-plugin-src/d3-plugin-src.zip). We need a fresh, untouched, copy. 
 
 ## 2. Prepare Source files
 
